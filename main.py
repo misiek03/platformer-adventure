@@ -81,7 +81,6 @@ def main_loop():
         dt = clock.tick(config.FPS) / 1000.0  # Delta time in seconds
         # Score increment per frame, adjust for smoother animation
         score_increment_per_frame = int(config.SCORE_ANIMATION_SPEED_PPS * dt)
-        print(score_increment_per_frame)
         if score_increment_per_frame == 0:
             score_increment_per_frame = 1
 
