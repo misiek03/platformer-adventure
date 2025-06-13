@@ -16,7 +16,7 @@
 - Przejdź poziom jak najszybciej, by zdobyć maksymalną liczbę punktów.
 
 <p align="center">
-  <img src="screenshots/gameplay.png" width="500"/>
+  <img src="screenshots/gameplay-gif.gif" width="500"/>
   <br/>
   <img src="screenshots/level-complete.png" width="500"/>
 </p>
