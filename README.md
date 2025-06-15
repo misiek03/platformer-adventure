@@ -1,6 +1,6 @@
 # 🎮 Platformer Adventure
 
-**Platformer Adventure** to dynamiczna gra platformowa stworzona w Pythonie przy użyciu biblioteki Pygame. Celem gry jest przechodzenie kolejnych poziomów, zbieranie monet, walka z przeciwnikami i zdobywanie jak najwyższych wyników czasowych.
+**Platformer Adventure** to dynamiczna gra platformowa stworzona w Pythonie przy użyciu biblioteki Pygame. Celem gry jest przechodzenie kolejnych poziomów, zbieranie monet, walka z przeciwnikami i zdobywanie jak najlepszych wyników czasowych.
 
 <p align="center">
   <img src="screenshots/menu.png" width="500"/>
